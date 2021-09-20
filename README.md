@@ -2,7 +2,7 @@
 
 Welcome to my corner of the internet. My name is Tanusha and my pronouns are she/her/hers. 👩
 
-📊 I helping businesses make better data driven decisions. Some of the domains I've worked in are:
+📊 I help businesses make better data driven decisions. Some of the domains I've worked in are:
 - 📢 Adtech
 - 🛒 Retail
 - 🟦 Data Warehousing
