@@ -1,17 +1,18 @@
 # Hey there! 👋
 
-:woman:
-Welcome to my corner of the internet. My name is Tanusha and my pronouns are she/her/hers.
+Welcome to my corner of the internet. My name is Tanusha and my pronouns are she/her/hers. 👩
 
-:chart_with_upwards_trend: I've been working as an analyst for about 3 years. Some of the 
+📊 I helping businesses make better data driven decisions. Some of the domains I've worked in are:
+- 📢 Adtech
+- 🛒 Retail
+- 🟦 Data Warehousing
 
- Hi, 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I love learning 📝 and this space is a collection of datasets or code I've picked up over the years. My strongest skills are:
+1. **Python** 🐍
+⋅⋅* Pandas, pySpark, NumPy, scikit, OpenCV, nltk, Flask
+2. **Data Analysis** 🧮
+..* Hypothesis Testing, Regression, Clustering, Segmentation, Classification
+3. **Data Visualization** 💹
+..* Tableau, Power BI, MS Excel, Google Sheets 
 
-<!---
-Tango2503/Tango2503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If I'm not coding - I'm either at the gym 🏋️‍♀️ or fostering puppers 🐶. 
