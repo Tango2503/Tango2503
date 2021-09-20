@@ -7,7 +7,7 @@ Welcome to my corner of the internet. My name is Tanusha and my pronouns are she
 - 🛒 Retail
 - 🟦 Data Warehousing
 
-I love learning 📝 and this space is a collection of datasets or code I've picked up over the years. My strongest skills are:
+I love learning 📝 and I'm creating this space to collect datasets or code I've picked up over the years. My strongest skills are:
 1. **Python** 🐍
 ⋅⋅* Pandas, pySpark, NumPy, scikit, OpenCV, nltk, Flask
 2. **Data Analysis** 🧮
