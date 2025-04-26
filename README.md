@@ -1,18 +1,8 @@
-# Hey there! 👋
+Hi, I’m Tanusha (pronouns: she/her/hers).
 
-Welcome to my corner of the internet. My name is Tanusha and my pronouns are she/her/hers. 👩
+I help businesses make smarter decisions with data.
+I’ve worked across Adtech, Retail, and Data Warehousing, using tools like Python (Pandas, pySpark, scikit-learn), Tableau, and Power BI.
 
-📊 I help businesses make better data driven decisions. Some of the domains I've worked in are:
-- 📢 Adtech
-- 🛒 Retail
-- 🟦 Data Warehousing
+I'm building this space to share the datasets, code, and ideas I pick up as I go.
 
-I love learning 📝 and I'm creating this space to collect datasets or code I've picked up over the years. My strongest skills are:
-1. **Python** 🐍
-⋅⋅* Pandas, pySpark, NumPy, scikit, OpenCV, nltk, Flask
-2. **Data Analysis** 🧮
-..* Hypothesis Testing, Regression, Clustering, Segmentation, Classification
-3. **Data Visualization** 💹
-..* Tableau, Power BI, MS Excel, Google Sheets 
-
-If I'm not coding - I'm either at the gym 🏋️‍♀️ or fostering puppers 🐶. 
+Outside of work, you’ll usually find me lifting weights 🏋️‍♀️ or hanging out with my friends.
