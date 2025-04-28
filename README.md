@@ -1,4 +1,4 @@
-Hi, I’m Tanusha,
+Hi, I’m Tanusha
 
 I help businesses make smarter decisions with data.
 I’ve worked across Adtech, Retail, and Data Warehousing, using tools like Python (Pandas, pySpark, scikit-learn), Tableau, and Power BI.
